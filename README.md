@@ -1,0 +1,1 @@
+### This repository demonstrates how to use GitHub Actions to automate workflows such as testing, building, and deploying applications.It serves as a learning and reference guide for setting up CI/CD pipelines directly within GitHub.
